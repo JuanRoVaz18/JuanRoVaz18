@@ -1,8 +1,7 @@
-\begin{center}
-**Te doy la bienvenida a mi GitHub 👋**
-\end{center}
+# **Te doy la bienvenida a mi GitHub 👋**
 
-**JuanRoVaz18/JuanRoVaz18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un estudiante de  de Ingenieria en Computacion, mi nombre es Juan Roman Gonzalez y mi perfil es **JuanRoVaz18/JuanRoVaz18**.
+
 
 Here are some ideas to get you started:
 
