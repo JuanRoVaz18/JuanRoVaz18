@@ -1,5 +1,5 @@
 \begin{center}
-#### **Te doy la bienvenida a mi GitHub 👋**
+**Te doy la bienvenida a mi GitHub 👋**
 \end{center}
 
 **JuanRoVaz18/JuanRoVaz18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
