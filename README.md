@@ -1,47 +1,32 @@
+Claro, Juan Roman. Aquí tienes una versión corregida de tu introducción en GitHub:
+
 # **Te doy la bienvenida a mi GitHub 👋**
 
-Soy un estudiante de  de Ingenieria en Computacion, mi nombre es Juan Roman Gonzalez y mi perfil es **JuanRoVaz18**.
-Desde chiquito siempre me ha gustado la tecnologia, por lo cual decidi empezar a estudiar una carrera que la implemente.
+Soy un estudiante de Ingeniería en Computación, mi nombre es Juan Roman Gonzalez y mi perfil es **JuanRoVaz18**. Desde chiquito siempre me ha gustado la tecnología, por lo cual decidí empezar a estudiar una carrera que la implemente.
 
-Actualmente, estoy trabajando en el Registro civil como programador Junior.
+Actualmente, estoy trabajando en el Registro Civil como programador Junior.
 
-Me gusta e backend y trato de siempre aprender de seguir aprendiendo.
-#**Las tecnologias que manejo:**
+Me gusta el backend y trato de siempre seguir aprendiendo.
 
-![PHP]([https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F303656%2Fphp-logo&psig=AOvVaw2p4LChJXgkmo76q0Qairud&ust=1722369573858000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCP6uaEzYcDFQAAAAAdAAAAABAa)){width='10px'}
+## **Las tecnologías que manejo:**
 
-![Laravel](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){width='10px'}
+![PHP](https://www.svgrepo.com/show/303656/php-logo.svg)  
+![Laravel](https://laravel.com/img/logomark.min.svg)  
+![HTML](https://www.svgrepo.com/show/354113/html-5.svg)  
+![SQL Server](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg)  
+![PostgreSQL](https://www.svgrepo.com/show/331383/postgresql.svg)  
 
-![HTML](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){width='10px'}
+## **Las tecnologías que sigo aprendiendo:**
 
-![SQL Server](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){width='10px'}
+![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){width='10px'}  
+![Java](https://www.svgrepo.com/show/303388/java.svg){width='10px'}  
+![PHP](https://www.svgrepo.com/show/303656/php-logo.svg){width='10px'}  
 
-![[PostgreSQL](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){width='10px'}
+## **Las tecnologías que me gustaría aprender:**
 
+* Aquí puedes agregar las tecnologías que te gustaría aprender en el futuro.
 
-#**Las tecnologias que sigo aprendiend:**
-
-![Github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){width='10px'}
-
-![Java](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){width='10px'}
-
-![PHP](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){width='10px'}
-
-
-
-
-
-
-
-#**Las tecnologias que me gustaria aprender:**
-
-
-
-
-
-
-
-
+---
 
 Here are some ideas to get you started:
 
@@ -53,4 +38,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+Espero que esto sea de ayuda para mejorar tu perfil de GitHub. ¿Hay algo más en lo que pueda asistirte?
