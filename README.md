@@ -1,6 +1,14 @@
 # **Te doy la bienvenida a mi GitHub 👋**
 
-Soy un estudiante de  de Ingenieria en Computacion, mi nombre es Juan Roman Gonzalez y mi perfil es **JuanRoVaz18/JuanRoVaz18**.
+Soy un estudiante de  de Ingenieria en Computacion, mi nombre es Juan Roman Gonzalez y mi perfil es **JuanRoVaz18**.
+Desde chiquito siempre me ha gustado la tecnologia, por lo cual decidi empezar a estudiar una carrera que la implemente.
+
+Actualmente, estoy trabajando en el Registro civil como programador Junior.
+
+Me gusta e backend y trato de siempre aprender mas tecnologias del mismo.
+
+
+
 
 
 Here are some ideas to get you started:
