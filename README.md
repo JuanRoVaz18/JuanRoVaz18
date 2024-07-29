@@ -7,12 +7,28 @@ Actualmente, estoy trabajando en el Registro civil como programador Junior.
 
 Me gusta e backend y trato de siempre aprender de seguir aprendiendo.
 #**Las tecnologias que manejo:**
-![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){width='100px'}
 
+![PHP]([https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F303656%2Fphp-logo&psig=AOvVaw2p4LChJXgkmo76q0Qairud&ust=1722369573858000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCP6uaEzYcDFQAAAAAdAAAAABAa)){width='10px'}
 
+![Laravel](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){width='10px'}
+
+![HTML](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){width='10px'}
+
+![SQL Server](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){width='10px'}
+
+![[PostgreSQL](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){width='10px'}
 
 
 #**Las tecnologias que sigo aprendiend:**
+
+![Github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){width='10px'}
+
+![Java](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){width='10px'}
+
+![PHP](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){width='10px'}
+
+
+
 
 
 
